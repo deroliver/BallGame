@@ -1,0 +1,30 @@
+﻿  AudioEngine.cpp
+  Camera2D.cpp
+  GengineErrors.cpp
+  gengine.cpp
+  GLSLProgram.cpp
+  ImageLoader.cpp
+  InputManager.cpp
+  IOManager.cpp
+IOManager.cpp(18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+IOManager.cpp(24): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+  ParticleBatch2D.cpp
+  ParticleEngine2D.cpp
+  picoPNG.cpp
+  ResourceManager.cpp
+  Sprite.cpp
+  SpriteBatch.cpp
+SpriteBatch.cpp(95): warning C4018: '<': signed/unsigned mismatch
+SpriteBatch.cpp(127): warning C4018: '<': signed/unsigned mismatch
+SpriteBatch.cpp(161): warning C4018: '<': signed/unsigned mismatch
+  SpriteFont.cpp
+SpriteFont.cpp(98): warning C4018: '<': signed/unsigned mismatch
+SpriteFont.cpp(108): warning C4244: '*=': conversion from 'float' to 'unsigned char', possible loss of data
+  TextureCache.cpp
+  Timing.cpp
+Timing.cpp(31): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+Timing.cpp(34): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+Timing.cpp(45): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+Timing.cpp(48): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  Window.cpp
+  gengine.vcxproj -> C:\Users\Oliver\Desktop\BallGame\Release\gengine.lib
